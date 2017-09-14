@@ -1,2 +1,2 @@
 # nej-define
-Define Module for NEJ
+Module Define System for NEJ

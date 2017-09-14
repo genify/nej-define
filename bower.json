@@ -1,0 +1,27 @@
+{
+    "name": "nej-define",
+    "version": "0.0.1",
+    "authors": [
+        "genify <genify@163.com>"
+    ],
+    "description": "Module Define System for NEJ",
+    "moduleType": [
+        "globals"
+    ],
+    "keywords": [
+        "nej",
+        "define",
+        "modular"
+    ],
+    "license": "MIT",
+    "homepage": "https://github.com/genify/nej-define.git",
+    "ignore": [
+        "doc",
+        "test",
+        "demo"
+    ],
+    "devDependencies": {
+        "mocha": "^3.5.2",
+        "chai": "^4.1.2"
+    }
+}
